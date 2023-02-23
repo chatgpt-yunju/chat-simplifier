@@ -1,0 +1,29 @@
+{
+  "Index": {
+    "title": "聊天简化器",
+    "switchLocale": "{locale, select,zh {中文} en {English} other {}}",
+    "deployWiki": "部署自己的网站？",
+    "slogan": "群消息太多？太长不看！",
+    "step0": "粘贴你的 OpenAI API Key",
+    "openaiApiKeyPlaceholder": "sk-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "step1": "粘贴你的聊天内容",
+    "helpPageLink": "(点击这里查看教程)",
+    "placeholder": "多选聊天内容，复制。通常包含昵称和内容。",
+    "step2": "选择输出结果的形式。",
+    "simplifierButton": "简化聊天内容",
+    "simplifiedContent": "简化后的内容",
+    "privacyPolicy1": "不建议上传过于隐私的聊天内容，详情查看",
+    "privacyPolicy2": "《隐私声明》",
+    "paragraphForm": "段落",
+    "paragraphFormPrompt": "请总结<|start|>与<|end|>之间的聊天内容。要求简明扼要，以一段话的形式输出。\n\n<|start|>",
+    "outlineForm": "大纲",
+    "outlineFormPrompt": "请总结<|start|>与<|end|>之间的聊天内容。要求简明扼要，以包含列表的大纲形式输出。\n\n<|start|>",
+    "pasteButton": "粘贴",
+    "clearButton": "清空",
+    "copySuccess": "摘要已复制到剪贴板",
+    "copyError": "复制失败，请使用HTTPS",
+    "timeoutError": "请求超时，请稍后再试",
+    "internalServerError": "服务器内部错误，请稍后再试",
+    "recommend": "推荐其他 AI 应用"
+  }
+}
