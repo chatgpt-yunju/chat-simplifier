@@ -42,4 +42,4 @@ npm run dev
 
 如果你觉得这个工具对您有帮助，可以帮作者买一杯果汁 🍹 表示支持
 
-![sponsorship](https://imzbb.cc/img/sponsorship.png)
+![sponsorship](https://pica.zhimg.com/80/v2-ab896e138c117c9e825495a0ee2e5f9e_720w.png)
