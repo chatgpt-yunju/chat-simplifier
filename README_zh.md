@@ -1,12 +1,12 @@
 # 聊天简化器
 
-[![discord](https://img.shields.io/badge/chat-on%20discord-7289da.svg?sanitize=true)](https://chat.imzbb.cc)
+[![discord](https://img.shields.io/badge/chat-on%20discord-7289da.svg?sanitize=true)](https://chatgpt.yunjunet.cn)
 
 [English](https://github.com/chatgpt-yunju/chat-simplifier/blob/main/README.md) | 中文
 
 此项目使用 AI 为您简化聊天内容
 
-[![Chat Simplifier](./public/screenshot_zh.png)](https://chat-simplifier.vercel.app/)
+[![Chat Simplifier](./public/screenshot_zh.png)](https://cs.yunjunet.cn/zh)
 
 ## 它是怎么工作的
 
