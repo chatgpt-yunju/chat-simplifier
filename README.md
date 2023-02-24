@@ -2,7 +2,7 @@
 
 [![discord](https://img.shields.io/badge/chat-on%20discord-7289da.svg?sanitize=true)](https://chat.imzbb.cc)
 
-English | [中文](https://github.com/zhengbangbo/chat-simplifier/blob/main/README_zh.md)
+English | [中文](https://github.com/chatgpt-yunju/chat-simplifier/blob/main/README_zh.md)
 
 This project simplify chat content for you using AI.
 
@@ -34,7 +34,7 @@ npm run dev
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fzhengbangbo%2Fchat-simplifier&env=OPENAI_API_KEY,NEXT_PUBLIC_USE_USER_KEY,OPENAI_MODEL&envDescription=Click%20%22Learn%20More%22%20on%20the%20right%20to%20view%20the%20description%20of%20the%20environment%20variable&envLink=https%3A%2F%2Fgithub.com%2Fzhengbangbo%2Fchat-simplifier%2Fwiki%2FDeploy&project-name=chat-simplifier&repository-name=chat-simplifier)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fchatgpt-yunju%2Fchat-simplifier&env=OPENAI_API_KEY,NEXT_PUBLIC_USE_USER_KEY,OPENAI_MODEL&envDescription=Click%20%22Learn%20More%22%20on%20the%20right%20to%20view%20the%20description%20of%20the%20environment%20variable&envLink=https%3A%2F%2Fgithub.com%2Fchatgpt-yunju%2Fchat-simplifier%2Fwiki%2FDeploy&project-name=chat-simplifier&repository-name=chat-simplifier)
 
 ## Credits
 

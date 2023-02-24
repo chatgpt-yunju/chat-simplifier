@@ -126,7 +126,7 @@ const Home: NextPage = () => {
                   {t('step0')}{" "}
                   <span className="text-blue-200 hover:text-blue-400">
                     <a
-                      href="https://github.com/zhengbangbo/chat-simplifier/wiki/Help"
+                      href="https://github.com/chatgpt-yunju/chat-simplifier/wiki/Help"
                       target="_blank"
                       rel="noopener noreferrer"
                     >{t('helpPageLink')}</a>
@@ -156,7 +156,7 @@ const Home: NextPage = () => {
                 !useUserKey && (
                   <span className="text-blue-200 hover:text-blue-400">
                     <a
-                      href="https://github.com/zhengbangbo/chat-simplifier/wiki/Help"
+                      href="https://github.com/chatgpt-yunju/chat-simplifier/wiki/Help"
                       target="_blank"
                       rel="noopener noreferrer"
                     >{t('helpPageLink')}</a>
@@ -217,7 +217,7 @@ const Home: NextPage = () => {
                 {t('privacyPolicy1')}
               <a
                 className="text-blue-200 hover:text-blue-400"
-                href="https://github.com/zhengbangbo/chat-simplifier/wiki/Privacy-Policy"
+                href="https://github.com/chatgpt-yunju/chat-simplifier/wiki/Privacy-Policy"
                 target="_blank"
                 rel="noopener noreferrer"
               >{' '}{t('privacyPolicy2')}</a>

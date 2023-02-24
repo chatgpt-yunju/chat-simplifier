@@ -23,7 +23,7 @@ export default function Header() {
       {" / "}
         <a
           className="relative font-medium text-black-600 before:absolute before:-bottom-1 before:h-0.5 before:w-full before:scale-x-0 before:bg-indigo-600 before:transition hover:before:scale-x-100"
-          href="https://github.com/zhengbangbo/chat-simplifier/wiki/Deploy"
+          href="https://github.com/chatgpt-yunju/chat-simplifier/wiki/Deploy"
           target="_blank"
           rel="noopener noreferrer"
         >
