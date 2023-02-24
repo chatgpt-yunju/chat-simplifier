@@ -12,7 +12,7 @@ export default function Recommend() {
           </a>
         </li>
         <li>
-          <a href="https://https://chatgpt.yunjunet.cn/draw.html" target="_blank" className="recommend-container">
+          <a href="https://chatgpt.yunjunet.cn/draw.html" target="_blank" className="recommend-container">
             AI绘画
           </a>
         </li>
