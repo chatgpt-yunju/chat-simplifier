@@ -6,7 +6,7 @@ English | [中文](https://github.com/chatgpt-yunju/chat-simplifier/blob/main/RE
 
 This project simplify chat content for you using AI.
 
-[![Chat Simplifier](./public/screenshot.png)](https://cs.yunjunet.cn/zh)
+![sponsorship](https://picx.zhimg.com/80/v2-134af26b1f45bae010ecd1205d5dd54e_720w.png)
 
 ## How it works
 

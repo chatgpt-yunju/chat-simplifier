@@ -6,7 +6,7 @@
 
 此项目使用 AI 为您简化聊天内容
 
-[![Chat Simplifier](./public/screenshot_zh.png)](https://cs.yunjunet.cn/zh)
+![sponsorship](https://pic1.zhimg.com/80/v2-0be1c7f8942a1835d699e22a91c40518_720w.png)
 
 ## 它是怎么工作的
 
